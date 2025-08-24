@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\first_app.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "first_app.cpp",
+              "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.cpp",
+              "RelativeDocumentMoniker": "prot_engine\\first_app.cpp",
+              "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.cpp",
+              "RelativeToolTip": "prot_engine\\first_app.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-24T15:48:49.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "first_app.hpp",
+              "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.hpp",
+              "RelativeDocumentMoniker": "prot_engine\\first_app.hpp",
+              "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.hpp",
+              "RelativeToolTip": "prot_engine\\first_app.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-24T15:37:34.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lve_window.cpp",
+              "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_window.cpp",
+              "RelativeDocumentMoniker": "prot_engine\\lve_window.cpp",
+              "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_window.cpp",
+              "RelativeToolTip": "prot_engine\\lve_window.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-24T15:21:31.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lve_window.hpp",
+              "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_window.hpp",
+              "RelativeDocumentMoniker": "prot_engine\\lve_window.hpp",
+              "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_window.hpp",
+              "RelativeToolTip": "prot_engine\\lve_window.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-24T15:03:31.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\main.cpp",
+              "RelativeDocumentMoniker": "prot_engine\\main.cpp",
+              "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\main.cpp",
+              "RelativeToolTip": "prot_engine\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-24T13:16:15.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
