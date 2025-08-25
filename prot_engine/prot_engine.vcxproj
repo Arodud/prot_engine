@@ -102,7 +102,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>E:\VulkanSDK\Include;$(SolutionDir)\Dependecies\glm-1.0.1-light\glm;C:\Users\arosl\Documents\GitHub\repos\prot_engine\prot_engine\Dependecies\glfw-3.4.bin.WIN64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>E:\VulkanSDK\Include;C:\Users\arosl\Documents\GitHub\repos\prot_engine\prot_engine\Dependecies\glm-1.0.1-light\glm;C:\Users\arosl\Documents\GitHub\repos\prot_engine\prot_engine\Dependecies\glfw-3.4.bin.WIN64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -119,7 +119,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>E:\VulkanSDK\Include;$(SolutionDir)\Dependecies\glm-1.0.1-light\glm;C:\Users\arosl\Documents\GitHub\repos\prot_engine\prot_engine\Dependecies\glfw-3.4.bin.WIN64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>E:\VulkanSDK\Include;C:\Users\arosl\Documents\GitHub\repos\prot_engine\prot_engine\Dependecies\glm-1.0.1-light\glm;C:\Users\arosl\Documents\GitHub\repos\prot_engine\prot_engine\Dependecies\glfw-3.4.bin.WIN64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -130,12 +130,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="first_app.cpp" />
+    <ClCompile Include="lve_pipeline.cpp" />
     <ClCompile Include="lve_window.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="first_app.hpp" />
+    <ClInclude Include="lve_pipeline.hpp" />
     <ClInclude Include="lve_window.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="compile.bat" />
+    <None Include="simple_shader.frag" />
+    <None Include="simple_shader.vert" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
