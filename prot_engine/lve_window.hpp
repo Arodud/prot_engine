@@ -25,6 +25,8 @@ namespace lve
 		{
 			return glfwWindowShouldClose(window);
 		};
+
+		void createWindowSurface(VkInstance inctance, VkSurfaceKHR *surface);
 	};
 
 }
