@@ -38,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,7 +52,7 @@
               "RelativeDocumentMoniker": "prot_engine\\first_app.hpp",
               "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.hpp",
               "RelativeToolTip": "prot_engine\\first_app.hpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAACQAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAACQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-26T18:59:04.352Z",
               "EditorCaption": ""
@@ -63,8 +67,7 @@
               "RelativeToolTip": "prot_engine\\lve_pipeline.cpp",
               "ViewState": "AgIAACkAAAAAAAAAAAAgwDsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-26T18:40:18.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T18:40:18.646Z"
             },
             {
               "$type": "Document",
@@ -76,8 +79,7 @@
               "RelativeToolTip": "prot_engine\\lve_pipeline.hpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAgwCEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-26T18:27:07.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T18:27:07.374Z"
             },
             {
               "$type": "Document",
@@ -89,8 +91,7 @@
               "RelativeToolTip": "prot_engine\\lve_window.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-26T18:15:36.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T18:15:36.684Z"
             },
             {
               "$type": "Document",
@@ -102,12 +103,7 @@
               "RelativeToolTip": "prot_engine\\lve_window.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-26T17:58:09.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-08-26T17:58:09.135Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "prot_engine\\lve_device.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-26T17:59:08.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T17:59:08.677Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "prot_engine\\lve_device.hpp",
               "ViewState": "AgIAAB8AAAAAAAAAAAAwwCQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-26T17:59:08.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T17:59:08.847Z"
             }
           ]
         }
