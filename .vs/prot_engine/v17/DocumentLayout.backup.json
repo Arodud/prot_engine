@@ -7,16 +7,32 @@
       "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_pipeline.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_pipeline.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\first_app.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\first_app.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_pipeline.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_pipeline.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_swap_chain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_swap_chain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_swap_chain.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_swap_chain.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -25,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_device.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_device.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,16 +58,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "first_app.cpp",
+              "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.cpp",
+              "RelativeDocumentMoniker": "prot_engine\\first_app.cpp",
+              "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.cpp",
+              "RelativeToolTip": "prot_engine\\first_app.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-01T14:24:41.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "first_app.hpp",
               "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.hpp",
               "RelativeDocumentMoniker": "prot_engine\\first_app.hpp",
               "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.hpp",
               "RelativeToolTip": "prot_engine\\first_app.hpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAACQAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-26T18:59:04.352Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lve_swap_chain.cpp",
+              "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_swap_chain.cpp",
+              "RelativeDocumentMoniker": "prot_engine\\lve_swap_chain.cpp",
+              "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_swap_chain.cpp",
+              "RelativeToolTip": "prot_engine\\lve_swap_chain.cpp",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAuwHcBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-29T13:47:50.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lve_swap_chain.hpp",
+              "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_swap_chain.hpp",
+              "RelativeDocumentMoniker": "prot_engine\\lve_swap_chain.hpp",
+              "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_swap_chain.hpp",
+              "RelativeToolTip": "prot_engine\\lve_swap_chain.hpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-29T13:47:46.748Z"
             },
             {
               "$type": "Document",
@@ -65,52 +114,51 @@
               "RelativeDocumentMoniker": "prot_engine\\lve_pipeline.cpp",
               "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_pipeline.cpp",
               "RelativeToolTip": "prot_engine\\lve_pipeline.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwCsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAewF0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-26T18:40:18.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "lve_pipeline.hpp",
               "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_pipeline.hpp",
               "RelativeDocumentMoniker": "prot_engine\\lve_pipeline.hpp",
               "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_pipeline.hpp",
               "RelativeToolTip": "prot_engine\\lve_pipeline.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-26T18:27:07.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T18:27:07.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "lve_window.cpp",
               "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_window.cpp",
               "RelativeDocumentMoniker": "prot_engine\\lve_window.cpp",
               "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_window.cpp",
               "RelativeToolTip": "prot_engine\\lve_window.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wBoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-26T18:15:36.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T18:15:36.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "lve_window.hpp",
               "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_window.hpp",
               "RelativeDocumentMoniker": "prot_engine\\lve_window.hpp",
               "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_window.hpp",
               "RelativeToolTip": "prot_engine\\lve_window.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA6wBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-26T17:58:09.135Z"
+              "WhenOpened": "2025-08-26T17:58:09.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "lve_device.cpp",
               "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_device.cpp",
               "RelativeDocumentMoniker": "prot_engine\\lve_device.cpp",
@@ -122,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "lve_device.hpp",
               "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_device.hpp",
               "RelativeDocumentMoniker": "prot_engine\\lve_device.hpp",
