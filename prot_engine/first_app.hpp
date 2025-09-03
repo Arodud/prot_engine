@@ -30,6 +30,7 @@ namespace lve
 		void createPipeline();
 		void createCommandBuffers();
 		void drawFrame();
+
 		LveWindow lveWindow { WIDTH, HEIGHT, "Heya" };
 		LveDevice lveDevice { lveWindow };
 		LveSwapChain lveSwapChain { lveDevice, lveWindow.getExtent() };
