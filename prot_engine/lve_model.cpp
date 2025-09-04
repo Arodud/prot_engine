@@ -31,10 +31,10 @@ namespace lve {
 		vkUnmapMemory(lveDevice.device(), vertexBufferMemory);
 	}
 
-	void LveModel::bind(VkCommandBuffer commandBuffer) {
+	void LveModel::draw(VkCommandBuffer commandBuffer) {
 		vkCmdDraw(commandBuffer, vertexCount, 1, 0, 0);
 	}
-	void LveModel::draw(VkCommandBuffer commandBuffer) {
+	void LveModel::bind(VkCommandBuffer commandBuffer) {
 		VkBuffer buffers[] = { vertexBuffer };
 		VkDeviceSize offsets[] = { 0 };
 		vkCmdBindVertexBuffers(commandBuffer, 0, 1, buffers, offsets);

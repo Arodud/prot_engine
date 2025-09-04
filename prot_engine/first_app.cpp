@@ -7,6 +7,7 @@ namespace lve
 {
 
 	FirstApp::FirstApp() {
+		loadModels();
 		createPipelineLayout();
 		createPipeline();
 		createCommandBuffers();
@@ -23,6 +24,15 @@ namespace lve
 			glfwPollEvents();
 			drawFrame();
 		}
+	}
+
+	void FirstApp::loadModels() {
+		std::vector<LveModel::Vertex> vertices{
+			{{0.0f, -0.5f}},
+			{{0.5f, 0.5f}},
+			{{-0.77f, 0.65f}}
+		};
+		lveModel = std::make_unique<LveModel>(lveDevice, vertices);
 	}
 
 	void FirstApp::createPipelineLayout() {
@@ -77,7 +87,7 @@ namespace lve
 			renderPassInfo.renderArea.offset = { 0 , 0 };
 			renderPassInfo.renderArea.extent = lveSwapChain.getSwapChainExtent();
 		
-			std::array<VkClearValue, 2> clearValues{};
+			std::array<VkClearValue, 2 > clearValues{};
 			clearValues[0].color = { 0.1f, 0.1f, 0.1f, 0.1f };
 			clearValues[1].depthStencil = { 1.0f, 0 };
 
@@ -87,7 +97,8 @@ namespace lve
 			vkCmdBeginRenderPass(commandBuffers[i], &renderPassInfo, VK_SUBPASS_CONTENTS_INLINE);
 
 			lvePipeline->bind(commandBuffers[i]);
-			vkCmdDraw(commandBuffers[i], 3, 1, 0, 0);
+			lveModel->bind(commandBuffers[i]);
+			lveModel->draw(commandBuffers[i]);
 
 			vkCmdEndRenderPass(commandBuffers[i]);
 			if (vkEndCommandBuffer(commandBuffers[i]) != VK_SUCCESS) {
