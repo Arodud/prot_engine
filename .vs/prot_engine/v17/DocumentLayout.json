@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_model.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_model.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\simple_shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\simple_shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\simple_shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\simple_shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\compile.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\compile.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -11,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\first_app.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_model.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|solutionrelative:prot_engine\\lve_model.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{993C350B-938A-4E46-B0B1-C0C592FAB1A1}|prot_engine\\prot_engine.vcxproj|C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,11 +46,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "simple_shader.frag",
+              "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\simple_shader.frag",
+              "RelativeDocumentMoniker": "prot_engine\\simple_shader.frag",
+              "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\simple_shader.frag",
+              "RelativeToolTip": "prot_engine\\simple_shader.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-05T19:05:06.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "simple_shader.vert",
+              "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\simple_shader.vert",
+              "RelativeDocumentMoniker": "prot_engine\\simple_shader.vert",
+              "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\simple_shader.vert",
+              "RelativeToolTip": "prot_engine\\simple_shader.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-05T19:03:13.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "compile.bat",
               "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\compile.bat",
               "RelativeDocumentMoniker": "prot_engine\\compile.bat",
@@ -55,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "lve_pipeline.cpp",
               "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_pipeline.cpp",
               "RelativeDocumentMoniker": "prot_engine\\lve_pipeline.cpp",
@@ -63,41 +101,37 @@
               "RelativeToolTip": "prot_engine\\lve_pipeline.cpp",
               "ViewState": "AgIAADUAAAAAAAAAAAAIwD8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-04T09:50:25.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-09-04T09:50:25.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "lve_model.cpp",
               "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_model.cpp",
               "RelativeDocumentMoniker": "prot_engine\\lve_model.cpp",
               "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_model.cpp",
               "RelativeToolTip": "prot_engine\\lve_model.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA9wBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-03T17:55:26.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "lve_model.hpp",
               "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_model.hpp",
               "RelativeDocumentMoniker": "prot_engine\\lve_model.hpp",
               "ToolTip": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_model.hpp",
               "RelativeToolTip": "prot_engine\\lve_model.hpp",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBgAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-03T17:33:25.463Z"
+              "WhenOpened": "2025-09-03T17:33:25.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "first_app.hpp",
               "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.hpp",
               "RelativeDocumentMoniker": "prot_engine\\first_app.hpp",
@@ -105,12 +139,11 @@
               "RelativeToolTip": "prot_engine\\first_app.hpp",
               "ViewState": "AgIAAAUAAAAAAAAAAAA9wB0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-26T18:59:04.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T18:59:04.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "first_app.cpp",
               "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\first_app.cpp",
               "RelativeDocumentMoniker": "prot_engine\\first_app.cpp",
@@ -118,12 +151,11 @@
               "RelativeToolTip": "prot_engine\\first_app.cpp",
               "ViewState": "AgIAADwAAAAAAAAAAAAowGQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-01T14:24:41.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T14:24:41.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "lve_device.cpp",
               "DocumentMoniker": "C:\\Users\\arosl\\Documents\\GitHub\\repos\\prot_engine\\prot_engine\\lve_device.cpp",
               "RelativeDocumentMoniker": "prot_engine\\lve_device.cpp",
