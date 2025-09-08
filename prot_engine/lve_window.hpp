@@ -12,14 +12,18 @@ namespace lve
 	{
 		void initWindow();
 
-		const int width, heigth;
-
+		
 		std::string windowName;
 		GLFWwindow *window;
+
+		static void framebufferResizedCallback(GLFWwindow* window, int width, int heigth);
 
 	public:
 		LveWindow(int w, int h, std::string name);
 		~LveWindow();
+
+		int width, heigth;
+		bool framebufferResized = false;
 
 		LveWindow(const LveWindow&) = delete;
 		LveWindow& operator=(const LveWindow&) = delete;
@@ -33,7 +37,8 @@ namespace lve
 		{
 			return { static_cast<uint32_t>(width), static_cast<uint32_t>(heigth) };
 		}
-
+		bool wasWindowResized() {return framebufferResized;}
+		void resetWindowResizedFlag() { framebufferResized = false;  }
 
 		void createWindowSurface(VkInstance inctance, VkSurfaceKHR *surface);
 	};
