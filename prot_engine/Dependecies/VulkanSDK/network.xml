@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Network>
+    <ProxyType>1</ProxyType>
+    <Ftp>
+        <Host></Host>
+        <Port>0</Port>
+        <Username></Username>
+        <Password></Password>
+    </Ftp>
+    <Http>
+        <Host></Host>
+        <Port>0</Port>
+        <Username></Username>
+        <Password></Password>
+    </Http>
+    <Repositories/>
+    <LocalCachePath>C:/Users/arosl/AppData/Local/cache\qt-installer-framework\e57130c8-652d-3d86-8b56-4de35a0047c6</LocalCachePath>
+</Network>
